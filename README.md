@@ -22,6 +22,7 @@
 - 🔧 [rhcsa-labs](https://github.com/siya-linuxadmin/rhcsa-labs)
 - 🌐 [networkplus-notes](https://github.com/siya-linuxadmin/networkplus-notes)
 - 🖥️ [hyper-v-lab](https://github.com/siya-linuxadmin/hyper-v-lab)
+- 🧪 [vmware-homelab](https://github.com/siya-linuxadmin/vmware-homelab)
 
 ---
 
